@@ -1,8 +1,8 @@
-package sample1;
+package sample2;
 
 public class HelloApp {
     public static void main(String[] args) {
-        MessageBean bean = new MessageBean();
+        MessageBean bean = new MessageBeanKr();
         bean.sayHello("Spring");
     }
 }

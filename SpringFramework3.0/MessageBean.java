@@ -1,7 +1,5 @@
-package sample1;
+package sample2;
 
-public class MessageBean {
-    public void sayHello(String name) {
-        System.out.println("Hello, " + name + "!");
-    }
+public interface MessageBean {
+    public void sayHello(String name);
 }
