@@ -1,4 +1,4 @@
-package net.madvirus.spring4.chap1;
+package net.madvirus.spring4.chap01;
 
 import java.util.ArrayList;
 import java.util.List;
